@@ -20,9 +20,13 @@
 
 - [📝 License](#license)
 
-# Hello Rails React <a name="about-project"></a>
+# Hello React Frontend <a name="about-project"></a>
 
 This is a project exercise to implement Rails back-end and API endpont.
+
+## Frontend
+
+Here is a link to the [frontend](https://github.com/aubinleyoung/hello-react-front-end.git) repo.
 
 ## 🛠 Built With <a name="built-with"></a>
 
